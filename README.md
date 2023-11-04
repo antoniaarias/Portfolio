@@ -10,7 +10,7 @@ Welcome to my portfolio, where I showcase the projects I've been working on. I e
 
 ## [La jubilación y su impacto en el consumo de los hogares](https://github.com/antoniaarias/La-jubilaci-n-y-su-impacto-en-el-consumo-de-los-hogares)
 
-## [Mercado Laboral Chileno](https://github.com/antoniaarias/La-jubilaci-n-y-su-impacto-en-el-consumo-de-los-hogares)
+## [Mercado Laboral Chileno](https://github.com/antoniaarias/Mercado-Laboral-Chileno)
 
 ## [Proyecto 2](https://github.com/antoniaarias/La-jubilaci-n-y-su-impacto-en-el-consumo-de-los-hogares)
 
