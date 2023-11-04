@@ -3,7 +3,8 @@
 Welcome to my portfolio, where I showcase the projects I've been working on. I enjoy data science and business analytics projects, but I've also worked on other things like web development and optimization models.
 
 
-# Data Cience
+# Data Science
+## [Salary Prediction Model](https://github.com/antoniaarias/Modelo-de-Clasificaci-n-de-Sueldo-c-r-Carrera/tree/main)
 
 
 # Buisnes Analytics
