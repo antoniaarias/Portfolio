@@ -10,7 +10,7 @@ Welcome to my portfolio, where I showcase the projects I've been working on. I e
 
 
 # Web Development
-## [Hangman]([https://username.github.io/hangman-game](https://github.com/antoniaarias/Hangman)https://github.com/antoniaarias/Hangman)
+## [Hangman]([https://username.github.io/hangman-game](https://github.com/antoniaarias/Hangman)
 
 
 
