@@ -14,6 +14,9 @@ Welcome to my portfolio, where I showcase the projects I've been working on. I e
 # Web Development
 ## [Hangman](https://github.com/antoniaarias/Hangman)
 
+#Optimization Model
+## [Problema del Vendedor Viajero](https://github.com/antoniaarias/Hangman)
+
 
 
 
