@@ -8,7 +8,7 @@ Welcome to my portfolio, where I showcase the projects I've been working on. I e
 
 ## [Efecto de la orientación política en la participación electoral](https://github.com/antoniaarias/Efecto-de-la-tendencia-pol-tica-en-participacion-electoral)
 
-## [La jubilación y su impacto en el consumo de los hogares](https://github.com/antoniaarias/Efecto-de-la-tendencia-pol-tica-en-participacion-electoral)
+## [La jubilación y su impacto en el consumo de los hogares](https://github.com/antoniaarias/La-jubilaci-n-y-su-impacto-en-el-consumo-de-los-hogares)
 
 # Buisnes Analytics
 ## [Vehicle Sale Dashboard](https://app.powerbi.com/links/TG2uu5pVwJ?ctid=36b6d413-3b6f-481a-bc9d-6689b511cafa&pbi_source=linkShare&bookmarkGuid=aeb004e3-716c-4258-9d9d-cd151c72f889)
